@@ -7,3 +7,4 @@
 7. Console.ReadLine();
 8. Return 0;
 9. Review zh's code
+10.Just so so.
