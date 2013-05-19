@@ -2,5 +2,6 @@
 2. zheng
 3. hua
 4. de
-5. code example
+5. code
 6. Console.WriteLine("hello world!");
+7. Console.ReadLine();
